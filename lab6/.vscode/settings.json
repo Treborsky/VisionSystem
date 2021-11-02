@@ -1,0 +1,8 @@
+{
+    "python.testing.promptToConfigure": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.pythonPath": "C:\\Python\\3.9.4\\python.exe",
+    "jupyter.jupyterServerType": "local"
+}
